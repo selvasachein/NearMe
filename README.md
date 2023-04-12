@@ -2,34 +2,34 @@
 ## AIM:
 To develop a website to display details about the places around my house.
 
-## Design Steps:
+## DESIGN STEPS:
 
-### Step 1:
+### STEP 1:
 Create a Django admin interface.
 
-### Step 2:
+### STEP 2:
 Download your city map from Google.
 
-### Step 3:
+### STEP 3:
 Using ```<map>``` tag name the map.
 
-### Step 4:
+### STEP 4:
 Create clickable regions in the image using ```<area>``` tag.
 
-### Step 5:
+### STEP 5:
 Write HTML programs for all the regions identified.
 
-### Step 6:
+### STEP 6:
 Execute the programs and publish them.
 
-## Code:
+## CODE:
 
 
-## Output:
+## OUTPUT:
 
 
-## HTML VALIDATOR
+## HTML VALIDATOR:
 
 
-## Result:
+## RESULT:
 The program for implementing image maps using HTML is executed successfully.
